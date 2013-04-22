@@ -4,7 +4,7 @@
 This is the code that we used to solve these problems:
 
 http://www2.css.edu/mics/RoboMazeMICS_2011.pdf                                   
-http://www.micsymposium.org/mics2012/Robot_grid_world_2012.pdf
+http://www.micsymposium.org/mics2012/Robot_grid_world_2012.pdf                
 http://www.cs.uwlax.edu/mics2013/RobotContestDraft.pdf
 
 We have a strong algorithm in this code that, when calibrated properly, could solve every maze that we set up. If you adjust the size of the maze in the code, this algorithm will solve any sized maze.
