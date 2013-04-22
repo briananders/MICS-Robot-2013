@@ -1,4 +1,4 @@
-2011-2012 Solutions by Brian Anders and Alex Cash
+2011-2012 Solutions by Brian Anders and Alex Cash                            
 2013 Solution by Brian Anders
 
 This is the code that we used to solve these problems:
